@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+namespace TheFirm;
 
-namespace TheFirm
+internal interface IZoo
 {
-    internal interface IZoo
-    {
-    }
+    void Show();
 }
