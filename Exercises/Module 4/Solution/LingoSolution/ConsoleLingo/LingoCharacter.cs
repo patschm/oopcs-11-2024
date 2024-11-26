@@ -49,8 +49,8 @@ namespace ConsoleLingo
 
         public LingoCharacter(char c, int pos)
         {
-            this.Position = pos;
-            this.Character = c;
+            Position = pos;
+            Character = c;
         }
     }
 }
