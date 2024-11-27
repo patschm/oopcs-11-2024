@@ -3,11 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HetCern", "HetCern\HetCern.csproj", "{7A25FB90-6FF0-4647-9100-3F7286384C5E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radio", "Radio\Radio.csproj", "{A892B3B5-B979-4A1A-9674-EAFB51D81A24}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{23D90121-8185-4EFB-94E0-074C6D805C99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HetCern", "HetCern\HetCern.csproj", "{7A25FB90-6FF0-4647-9100-3F7286384C5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +15,6 @@ Global
 		{7A25FB90-6FF0-4647-9100-3F7286384C5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A25FB90-6FF0-4647-9100-3F7286384C5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A25FB90-6FF0-4647-9100-3F7286384C5E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A892B3B5-B979-4A1A-9674-EAFB51D81A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A892B3B5-B979-4A1A-9674-EAFB51D81A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A892B3B5-B979-4A1A-9674-EAFB51D81A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A892B3B5-B979-4A1A-9674-EAFB51D81A24}.Release|Any CPU.Build.0 = Release|Any CPU
-		{23D90121-8185-4EFB-94E0-074C6D805C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{23D90121-8185-4EFB-94E0-074C6D805C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{23D90121-8185-4EFB-94E0-074C6D805C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{23D90121-8185-4EFB-94E0-074C6D805C99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

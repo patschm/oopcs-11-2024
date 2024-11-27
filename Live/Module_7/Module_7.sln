@@ -5,7 +5,11 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheFirm", "TheFirm\TheFirm.csproj", "{03CBD37A-5152-4F8F-AC57-0FDB80173279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeerInteractie", "MeerInteractie\MeerInteractie.csproj", "{203BB729-C545-461F-A991-6E604BA45D6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MeerInteractie", "MeerInteractie\MeerInteractie.csproj", "{203BB729-C545-461F-A991-6E604BA45D6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radio", "Radio\Radio.csproj", "{BBC25309-2A67-4039-8E33-2786E1DFDC87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{1B86F3DE-241F-464D-88B4-75B363284253}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{203BB729-C545-461F-A991-6E604BA45D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{203BB729-C545-461F-A991-6E604BA45D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{203BB729-C545-461F-A991-6E604BA45D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC25309-2A67-4039-8E33-2786E1DFDC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC25309-2A67-4039-8E33-2786E1DFDC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC25309-2A67-4039-8E33-2786E1DFDC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC25309-2A67-4039-8E33-2786E1DFDC87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B86F3DE-241F-464D-88B4-75B363284253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B86F3DE-241F-464D-88B4-75B363284253}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B86F3DE-241F-464D-88B4-75B363284253}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B86F3DE-241F-464D-88B4-75B363284253}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
