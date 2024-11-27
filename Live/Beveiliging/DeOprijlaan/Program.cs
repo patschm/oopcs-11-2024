@@ -10,6 +10,11 @@ Camera camera = new Camera();
 Valkuil valkuil = new Valkuil();
 Lamp lamp = new Lamp();
 
+lus.Detecting += hek.Open;
+lus.Detecting += camera.Start;
+lus.Detecting += valkuil.Open;
+lus.Detecting += lamp.Detecting;
+
 lus.Connect(hek);
 lus.Connect(camera);
 lus.Connect(valkuil);

@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Radio", "Radio\Radio.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{1B86F3DE-241F-464D-88B4-75B363284253}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutieTheorie", "EvolutieTheorie\EvolutieTheorie.csproj", "{8B962CB4-DBF0-416A-81C0-B22AB0990259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambdas", "Lambdas\Lambdas.csproj", "{7B802D5F-0623-46A7-BC61-C5B44F51C5C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{1B86F3DE-241F-464D-88B4-75B363284253}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B86F3DE-241F-464D-88B4-75B363284253}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B86F3DE-241F-464D-88B4-75B363284253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B962CB4-DBF0-416A-81C0-B22AB0990259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B962CB4-DBF0-416A-81C0-B22AB0990259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B962CB4-DBF0-416A-81C0-B22AB0990259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B962CB4-DBF0-416A-81C0-B22AB0990259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B802D5F-0623-46A7-BC61-C5B44F51C5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B802D5F-0623-46A7-BC61-C5B44F51C5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B802D5F-0623-46A7-BC61-C5B44F51C5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B802D5F-0623-46A7-BC61-C5B44F51C5C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

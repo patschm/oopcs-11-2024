@@ -1,8 +1,11 @@
 ﻿namespace Yunex;
 
+public delegate void Actie();
+
 public class DetectieLus
 {
     private IObserver[] devices = new IObserver[10];
+    public event Actie Detecting;
 
     public void Connect(IObserver device)
     {
@@ -24,5 +27,7 @@ public class DetectieLus
         {
             dev?.Detecting();
         }
+
+        Detecting?.Invoke();
     }
 }
